@@ -13,15 +13,35 @@ A **Imobiliária Bortone** é uma plataforma digital que tem como principal obje
 </details>
 
 <details>
+<summary><strong>Entregas obrigatórias</strong></summary>
+
+Semanalmente, deverá ser entregue o vídeo das dailies entre os PMs, apresentando os resultados da semana. O vídeo deverá ter de 2 a 5 minutos no máximo. Precisará ser clara e objetivo nos resultados. A nota final será composta com base nas entregas apresentadas nessas gravações. A ausência do vídeo semanal resultará em nota zero para todas as squads do projeto naquela semana. Além disso, a não participação do PM (ou de um PO que o represente em caso de ausência) também acarretará nota zero na atividade para todos os integrantes do time do PM.
+
+Cronograma :
+- 25/08 - Apresentação UX
+- 01/09 - UX + Frontend
+- 08/09 - Frontend
+- 15/09 - Frontend + Buscas
+- 22/09 - Agendamento + Chat + Contato + Publicidade
+- 29/09 - Dashboard + Reports PDF + Imóveis Vitrine e CMS + Gestão de Usuário
+- 13/10 - FAQ + Simulador + Mapa + Notificação + Recomendação
+
+> Local para depóstido dos vídeos:
+<<link [aqui](https://drive.google.com/drive/folders/1MIn-INfZyhXig_0rG4wqggT9k7aXqsoE?usp=sharing)>>
+
+> Sintaxe para nome do arquivo (exemplo):
+2025-08-25-daily-01-apresentacao_ux
+
+</details>
+
+<details>
 <summary><strong>Atualizações de Andamento</strong></summary>
 
 As atualizações ocorrerão nas seguintes datas:
 
-<img width="1664" height="876" alt="image" src="https://github.com/user-attachments/assets/ca25847a-af8e-4d9b-bf3a-a14043735d48" />
+<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/7a64824b-ded6-4aaf-8363-13f3f2e48fc5" />
 
-[Gantt em PDF](https://github.com/user-attachments/files/21760856/Gantt.pdf)
-
-
+[Online Gantt 20250813.pdf](https://github.com/user-attachments/files/21761345/Online.Gantt.20250813.pdf)
 </details>
 
 <details>
