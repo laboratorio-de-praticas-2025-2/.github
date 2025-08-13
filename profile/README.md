@@ -145,10 +145,13 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 
 ---
 
-## Diagrama do BD
+## Banco de dados
 
+### Diagrama ER dos imóveis
 <img width="1584" height="897" alt="imoveis_diagrama mmd" src="https://github.com/user-attachments/assets/c2bd924d-bcdd-422d-853e-a8ccedb51f65" />
 
+### Script SQL
+[https://github.com/laboratorio-de-praticas-2025-2/banco-de-dados/blob/main/db_imobiliaria.sql](https://github.com/laboratorio-de-praticas-2025-2/banco-de-dados/blob/main/db_imobiliaria.sql)
 
 ## Ferramentas Utilizadas
 
