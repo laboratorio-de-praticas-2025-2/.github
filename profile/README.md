@@ -15,29 +15,12 @@ A **Imobiliária Bortone** é uma plataforma digital que tem como principal obje
 <details>
 <summary><strong>Atualizações de Andamento</strong></summary>
 
-As atualizações ocorrerão nas seguintes sextas-feiras:
+As atualizações ocorrerão nas seguintes datas:
 
-| **Status**  | **Data**       | **Entregas**   | **Foco da Atualização**                                                         |
-|-------------|----------------| ---------------|---------------------------------------------------------------------------------|
-|     ⚙️      | **22/ago**     | Entrega 1      | definição das stacks do projeto e o que já foi levantado do sistema             |
-|     ⚙️      | **29/ago**     | Entrega 2      | -                  |
-|     ⚙️      | **05/set**     | Entrega 3      | -                  |
-|     ⚙️      | **12/set**     | Entrega 4      | -                  |
-|     ⚙️      | **19/set**     | Entrega 5      | -                  |
-|     ⚙️      | **26/set**     | Entrega 6      | -                  |
-|     ⚙️      | **03/out**     | Entrega 7      | -                  |
-|     ⚙️      | **10/out**     | Entrega 8      | -                  |
-|     ⚙️      | **17/out**     | Entrega 9      | -                  |
-|     ⚙️      | **24/out**     | Entrega 10     | -                  |
-|     ⚙️      | **31/out**     | Entrega 11     | -                  |
-</details>
+<img width="1664" height="876" alt="image" src="https://github.com/user-attachments/assets/ca25847a-af8e-4d9b-bf3a-a14043735d48" />
 
-<details>
-<summary><strong>Entregas Parciais</strong></summary>
+[Gantt em PDF](https://github.com/user-attachments/files/21760856/Gantt.pdf)
 
-- **--/---:**  
-  - PENDENTE 
-  - PENDENTE
 
 </details>
 
