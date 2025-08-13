@@ -1,8 +1,8 @@
-# Projeto: Imobiliária Bortone
+# Imobiliária Bortone
 
 ### Descrição do Projeto
 
-O **Sistema de Vitrine de Imóveis** é uma plataforma digital que tem como principal objetivo conectar pessoas interessadas em alugar ou comprar imóveis. Nosso foco é oferecer uma experiência de usuário intuitiva e completa, desde a busca inicial até o agendamento de visitas.
+A **Imobiliária Bortone** é uma plataforma digital que tem como principal objetivo conectar pessoas interessadas em alugar ou comprar imóveis. Nosso foco é oferecer uma experiência de usuário intuitiva e completa, desde a busca inicial até o agendamento de visitas.
 
 ## Cronograma
 
