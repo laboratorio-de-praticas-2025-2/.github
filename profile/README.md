@@ -54,6 +54,8 @@ As atualizações ocorrerão nas seguintes datas:
 ---
 
 ## Produtos e Funcionalidades
+Planilha com todos os membros: [LINK AQUI](https://docs.google.com/spreadsheets/d/1pu5pwdWsS7wv_KXoJu9Ce16Z5tnr6Nc0nLtHfrv3kik/edit?usp=sharing)
+
 ### 1. Produto Core
 
 #### 1.1 Squad Header e Carrossel
