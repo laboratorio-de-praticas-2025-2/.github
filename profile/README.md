@@ -156,6 +156,37 @@ As atualizações ocorrerão nas seguintes datas:
 ### Script SQL
 [https://github.com/laboratorio-de-praticas-2025-2/banco-de-dados/blob/main/db_imobiliaria.sql](https://github.com/laboratorio-de-praticas-2025-2/banco-de-dados/blob/main/db_imobiliaria.sql)
 
+## Avaliação
+
+### Entrega dos Vídeos
+
+Semanalmente, deverá ser entregue o vídeo das dailies entre os PMs, apresentando os resultados da semana. O vídeo deverá ter de 2 a 5 minutos no máximo. Precisará ser clara e objetivo nos resultados. A nota final será composta com base nas entregas apresentadas nessas gravações. A ausência do vídeo semanal resultará em nota zero para todas as squads do projeto naquela semana. Além disso, a não participação do PM (ou de um PO que o represente em caso de ausência) também acarretará nota zero na atividade para todos os integrantes do time do PM.
+
+---
+
+### Avaliação 360º
+
+A **avaliação 360º** é um processo realizado entre todos os membros de cada **PRODUTO**. Nessa avaliação, existem perguntas baseadas em uma escala de desempenho:
+
+* **Abaixo das expectativas**
+* **Atendeu às expectativas**
+* **Superou as expectativas**
+
+Essa escala é utilizada para avaliar a participação individual, o cumprimento de prazos de entrega e o nível de comprometimento de cada membro com o projeto.
+
+---
+
+### Feedback do PM
+
+O **PM (Product Manager)** fornecerá uma visão estratégica sobre a execução das demandas em cada produto. A partir dessa análise, o PM avaliará o produto de forma geral, considerando o desempenho de cada companheiro de equipe.
+
+---
+
+### Nota Distributiva
+
+Com base na análise das avaliações anteriores (**entrega dos vídeos**, **avaliação 360º** e **feedback do PM**), o colegiado dos professores responsáveis pelas disciplinas-chave determinará uma **nota final** para o produto/squad. Essa nota deverá ser distribuída entre todos os membros do grupo por meio de um **comum acordo**, levando em consideração o desempenho individual de cada discente ao longo do projeto.
+
+
 ## Ferramentas Utilizadas
 
 <details>
